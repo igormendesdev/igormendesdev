@@ -1,4 +1,4 @@
-# Fala mulherada! 👋
+# Fala comigo! 👋
 
 <div align="center">
 Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
