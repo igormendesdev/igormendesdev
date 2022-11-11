@@ -63,11 +63,6 @@
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=89a94b&height=3&section=header&%20render">
 
 <a href="https://github.com/igormendesdev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=igormendesdev&theme=dark&ring=9bc44b&currStreakNum=ffffff&fire=eaa532&currStreakLabel=eaa532&hide_border=true&background=0E1118" width="540" alt="IgorMendes-streak"></a>
-
-<img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=89a94b&height=3&section=header&%20render">
-
-<div align="center">
-<a href="https://github.com/igormendesdev"><img src="https://activity-graph.herokuapp.com/graph?username=igormendesdev&bg_color=0e1118&hide_border=true&custom_title=Contribution%20Graph&area=true&area_color=9bc44b&title_color=9bc44b&line=9bc44b&point=9bc44b&theme=high-contrast" width="800" alt="IgorContribution-graph"></a>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=9bc44b" />
