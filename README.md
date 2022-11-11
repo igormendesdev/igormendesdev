@@ -29,7 +29,7 @@
 
 ### ✌️ Oi oi, meu nome é Igor!
 **Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.** \
-**Atualmente, trabalho no setor de Logística, mas estou buscando aprender sobre** \
+**Atualmente, trabalho no setor de Logística, mas tô aprendendo sobre** \
 **Análise e Desenvolvimento de Sistemas no IFRO Campus Ji-Paraná!**
 
 **E sim, eu também gosto muito de Naruto! hahah**
