@@ -13,14 +13,13 @@
 🔗 • https://getemoji.com
 -->
 
+<img align="left" src="https://komarev.com/ghpvc/?username=igormendesdev&color=89a94b" alt="IgorMendes-profileviews"><div>
+<br>
+
 <div align="center">
  
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=140&color=9bc44b&text=Fala%20comigo!%20👋&desc=Igor%20Mendes%20aqui!&fontColor=e4e4e4&fontSize=40&fontAlign=80&fontAlignY=25&descAlign=85&descAlignY=52)
 </div>
-
-<img align="left" src="https://komarev.com/ghpvc/?username=igormendesdev&color=89a94b" alt="Juletopi-profileviews"><div>
-<br>
-<br>
 
 <!-- SOBRE MIM -->
  
