@@ -28,7 +28,11 @@
 <div align="left">
 
 ### ✌️ Oi oi, meu nome é Igor!
-Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
+**Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.** \
+**Atualmente, trabalho no setor de Logística, mas estou buscando aprender sobre** \
+**Análise e Desenvolvimento de Sistemas no IFRO Campus Ji-Paraná!**
+
+**E sim, eu também gosto muito de Naruto! hahah**
 
 ### 💬 Redes Socias e Contatos:
 <a href="https://www.linkedin.com/in/igor-mendes-4a07b4212"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="46" alt="LinkedIn-icon"></a>
@@ -42,6 +46,7 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 
 <!-- ESTATÍSTICAS -->
 
+<br>
 <div align="center">
 
 # <img width="44" src="https://cdn3.emoji.gg/emojis/4595-thumbsupnaruto.png" alt="Naruto2-pic"> Estatísticas do GitHub:
