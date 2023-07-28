@@ -32,7 +32,6 @@
 **Atualmente, trabalho no setor de Logística, mas tô aprendendo sobre** \
 **Análise e Desenvolvimento de Sistemas no IFRO Campus Ji-Paraná!**
 
-**E sim, eu também gosto muito de Naruto! hahah**
 
 ### 💬 Redes Socias e Contatos:
 <a href="https://www.linkedin.com/in/igor-mendes-4a07b4212"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="46" alt="LinkedIn-icon"></a>
