@@ -48,7 +48,7 @@
 <br>
 <div align="center">
 
-# <img width="44" src="https://cdn3.emoji.gg/emojis/4595-thumbsupnaruto.png" alt="Naruto2-pic"> Estatísticas do GitHub:
+# Estatísticas do GitHub:
 
 <div align="center">
 <a href="https://github.com/igormendesdev">
