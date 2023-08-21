@@ -23,7 +23,7 @@
 
 <!-- SOBRE MIM -->
  
-# <img width="45" src="https://cdn3.emoji.gg/emojis/4067-run.gif" alt="NinjaRun-gif"> Sobre mim: <img align="right" width="330" src="https://user-images.githubusercontent.com/76459155/201306262-598efe0a-827f-498c-ad63-c9a796cbdbab.png" alt="Naruto1-pic" />
+# <img width="45" src="https://cdn3.emoji.gg/emojis/4067-run.gif" alt="NinjaRun-gif"> Sobre mim: <img align="right" width="330" />
 
 <div align="left">
 
